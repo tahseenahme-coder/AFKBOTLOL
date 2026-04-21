@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "Nillas.aternos.me",
+    "port": 43211,
     "version": "",
     "try-creative": false
   },
@@ -31,14 +31,14 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "SHITTINGS",
+        "I LIKE TO SCAM",
+        "HAVE FUN WITH NILLAS"
       ]
     },
     "chat-log": true,
     "auto-reconnect": true,
-    "auto-reconnect-delay": 2000,
+    "auto-reconnect-delay": 100,
     "max-reconnect-delay": 120000
   },
   "movement": {
